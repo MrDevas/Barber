@@ -32,9 +32,6 @@
     font-family: Bluetea;
     src: url(../assets/fonts/Bluetea.ttf);
 }
-
-
-
 * {
     margin: 0px;
     padding: 0px;
@@ -180,7 +177,7 @@ header {
     height: 2.5px;
     position: absolute;
     content: "";
-    top: 77%;
+    top: 73%;
     left: 600px;
 
 }
@@ -192,7 +189,7 @@ header {
     height: 2.5px;
     position: absolute;
     content: "";
-    top: 77%;
+    top: 73%;
     right: 600px;
 }
 
